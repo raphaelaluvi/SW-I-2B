@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\bin\Debug\net6.0\ExercicioVideo.exe
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\bin\Debug\net6.0\ExercicioVideo.deps.json
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\bin\Debug\net6.0\ExercicioVideo.runtimeconfig.json
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\bin\Debug\net6.0\ExercicioVideo.dll
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\bin\Debug\net6.0\ExercicioVideo.pdb
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.AssemblyInfo.cs
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.dll
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\refint\ExercicioVideo.dll
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.pdb
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ExercicioVideo.genruntimeconfig.cache
+C:\Users\Acer\Downloads\ExercicioVideo\ExercicioVideo\ExercicioVideo\obj\Debug\net6.0\ref\ExercicioVideo.dll
